@@ -1,0 +1,8 @@
+.venv/
+.idea/
+*.mp3
+*.log
+*.txt
+backup/
+__pycache__/
+
